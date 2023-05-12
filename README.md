@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://zakarkaitemilda.github.io/8-BIT/ PAKEISTI
+Site published at: https://zakarkaitemilda.github.io/11-eShop/
 
 Design: [BIT](https://www.figma.com/file/ckVqD5CByyU7l2QwrNzuLJ/Untitled?type=design&node-id=0-1&t=5LUmOwhSIgTcFIei-0)
 
@@ -45,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/ZakarkaiteMilda/8-BIT
+    git clone https://github.com/ZakarkaiteMilda/11-eShop
     ```
 2. Install NPM packages
     ```sh
