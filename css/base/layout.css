@@ -1,34 +1,63 @@
-.nav {
-    background-color: greenyellow;
-    height: 150px; 
+.container {
+    padding: 100px;
+}
+/* Header */
+header {
+    height: 150px;
 }
 
+.nav {
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    list-style-type: none;
+}
+
+a {
+     text-decoration: none;
+}
+/* Header end*/
+/* Main*/
+/* Section hero*/
 .hero {
     background-color: aqua;
     height: 150px;
 }
-
+/* Section hero end*/
+/* Section kvmr*/
 .kvmr {
     background-color: blue;
     height: 150px;
 }
-
+/* Section kvmr end*/
+/* Section duk*/
 .duk {
     background-color: blueviolet;
     height: 150px;
 }
-
+/* Section duk end*/
+/* Section newsletter */
 .newsletter {
     background-color: green;
     height: 150px;
 }
-
+/* Section newsletter end*/
+/* Section contact*/
 .contact {
     background-color: yellow;
     height: 200px;
 }
-
+/* Section contact end*/
+/* Main end*/
+/* Footer*/
 .footer {
     background-color: goldenrod;
     height: 50px;
 }
+/* Footer end*/
