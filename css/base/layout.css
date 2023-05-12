@@ -108,11 +108,11 @@ a:hover {
 @media (min-width: 440px) {
 
     .hero > p {
-        padding: 0 10%;
+        padding: 0 3%;
     }
 
   .hero {
-    height: 300px;
+    height: 320px;
   }
 }
 
@@ -123,7 +123,7 @@ a:hover {
     }
 
 .hero {
-        height: 400px;
+        height: 420px;
         font-size: 1.5rem;
       }
 }
@@ -131,14 +131,43 @@ a:hover {
 .hero > h1 {
     margin-bottom: 50px;
 }
-header {
-    /* font-weight: 600; */
-}
 
 @media (min-width: 900px) {
-    .nav {
+
+    .hero {
+        height: 500px;
         font-size: 1.5rem;
+      }
+
+      .hero > p {
+        padding: 0 10%;
+    }
+      
+}
+
+@media (min-width: 1100px) {
+
+    .hero {
+        height: 750px;
+        font-size: 2rem;
+      }
+      .hero > p {
+        padding: 0 15%;
+    }
+    header {
+        font-weight: 500; 
+    }
+}
+
+@media (min-width: 1300px) {
+    .hero > p {
+        padding: 5% 15%;
+    }
+}
+@media (min-width: 1600px) {
+    .nav {
         font-weight: 400;
+       
     }
 
     .hero > p {
@@ -164,7 +193,5 @@ header {
         font-weight: 600; 
     }
 
-    @media (min-width: 120px) {
-        
-    }
+  
 }
