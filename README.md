@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://zakarkaitemilda.github.io/11-eShop/
 
-Design: [BIT](https://www.figma.com/file/ckVqD5CByyU7l2QwrNzuLJ/Untitled?type=design&node-id=0-1&t=5LUmOwhSIgTcFIei-0)
+Design: [BIT](./css/pages/dizainas.png)
 
 ## 🎯 Project features/goals
 
